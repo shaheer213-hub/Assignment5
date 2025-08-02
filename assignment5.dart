@@ -112,7 +112,6 @@ void main() {
     ;
   }
   print("Max number is $Max");
-
   //Task 12(10)
   List<String> fruits = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry'];
   print(fruits.reversed.toList());
