@@ -21,4 +21,11 @@ List<int> numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 for(var i=0;i<numbers.length;i++){
   print(numbers[i]);
 }
+var Laptop =0;
+ while (Laptop <=50){
+  print("Laptops are $Laptop");
+  Laptop++;
+  if(Laptop==25)
+   break;
+}
 }
